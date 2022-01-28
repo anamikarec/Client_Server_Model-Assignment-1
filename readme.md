@@ -15,7 +15,7 @@
 #### 2. make a curl request for google.com and print headers
 - Request: 
 ```js
-    curl -I google.co`
+    curl -I google.com
 ```
 - Response: 
 ```js
